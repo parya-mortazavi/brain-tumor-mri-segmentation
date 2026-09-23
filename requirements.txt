@@ -1,1 +1,8 @@
-
+torch
+numpy
+nibabel
+opencv-python
+scikit-learn
+matplotlib
+pandas
+scikit-image
