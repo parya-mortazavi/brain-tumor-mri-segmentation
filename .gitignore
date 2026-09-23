@@ -1,0 +1,22 @@
+# Kaggle credentials
+kaggle.json
+
+# Datasets
+data/
+*.nii
+*.nii.gz
+*.zip
+
+# Model checkpoints
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
